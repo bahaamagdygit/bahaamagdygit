@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bahaamagdygit&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-blue?style=flat&logo=google-maps" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-green?style=flat" />
 </p>
