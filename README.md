@@ -1,36 +1,87 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Bahaa+Magdy;Mid-level+Front-End+Developer;Angular+%7C+ABP+Framework+%7C+.NET;Building+Legal+%26+Live+Stream+Systems" alt="Typing SVG" />
-</h1>
+<!-- ========================= HERO SECTION ========================= -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahaamagdygit&label=Profile+Views&color=6E40C9&style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Cairo%2C+Egypt-6E40C9?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open+to-Remote+Opportunities-22c55e?style=flat-square" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090E1A,45:6E40C9,100:00C7B7&text=Bahaa%20Magdy&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20Angular%20%7C%20ABP%20Framework%20%7C%20.NET&descAlignY=60&descSize=18&animation=fadeIn" alt="Bahaa Magdy Header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=60&lines=Building+scalable+enterprise+web+applications;Creating+modern+Angular+and+.NET+solutions;Turning+complex+requirements+into+clean+products;Legal+Platforms+%E2%80%A2+ERP+Systems+%E2%80%A2+Streaming+Software" alt="Typing Introduction"/>
+
+<br/>
+
+<a href="https://bahaa-magdy-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/bahaa-magdy-73b165255/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:bahaamagdy643@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Work_Together-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bahaamagdygit&label=Profile%20Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/bahaamagdygit?label=Followers&style=flat-square&color=00C7B7&logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Based_in-Cairo%2C_Egypt-6E40C9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Open_to-Remote_Opportunities-22C55E?style=flat-square" alt="Open to Work"/>
+
+</div>
 
 ---
 
+<!-- ========================= ABOUT SECTION ========================= -->
+
+## 👨‍💻 About Me
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="62%" valign="top">
 
-### 👨‍💻 About Me
+### Building software that solves real business problems
 
-- 🏢 **Mid-level Front-End Developer** @ [InnovaWide](https://www.innovawide.com) *(Jul 2024 – Present)*
-- ⚙️ Specializing in **Angular**, **ABP Framework**, **C# / .NET**
-- 🏛️ Building **LawMax** — Legal Case Management System
-- ⚖️ Building **ALMargaa** — Dual-Portal Legal Services Platform
-- 🎬 Personal: **Church Live Stream Studio** *(Electron + React + RTMP)*
-- 🎓 ITI Diploma `2023` · B.Sc. Assiut University `2019–2023`
-- 💬 Arabic 🇪🇬 & English 🌍
-- 📫 Reach me at **bahaamagdy643@gmail.com**
+I'm **Bahaa Magdy**, a Software Engineer specializing in building scalable, responsive and maintainable enterprise applications using **Angular**, **ABP Framework** and **.NET**.
+
+I work across the full development lifecycle—from translating business requirements into architecture and reusable components to implementing secure APIs, complex dashboards and production-ready user experiences.
+
+* 💼 **Mid-level Front-End Developer** at [InnovaWide](https://www.innovawide.com)
+* 🏛️ Developing enterprise-grade **legal technology platforms**
+* 🧩 Building modular applications with **Angular and ABP Framework**
+* 🌍 Experienced with multilingual applications and **Arabic RTL interfaces**
+* ⚡ Focused on performance, maintainability and scalable architecture
+* 🎬 Building a desktop live-stream production studio using Electron
+* 📍 Based in Cairo, Egypt
+* 🌐 Arabic and English
 
 </td>
-<td width="45%" valign="top">
+<td width="38%" valign="top">
 
-### 📊 GitHub Stats
+```typescript
+const bahaa = {
+  role: "Software Engineer",
+  location: "Cairo, Egypt",
 
-![Bahaa's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=bahaamagdygit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+  frontend: [
+    "Angular",
+    "TypeScript",
+    "RxJS",
+    "React"
+  ],
+
+  backend: [
+    "C#",
+    ".NET",
+    "ABP Framework"
+  ],
+
+  currentlyBuilding: [
+    "Legal Platforms",
+    "ERP Systems",
+    "Streaming Software"
+  ],
+
+  mindset: "Build. Improve. Scale."
+};
+```
 
 </td>
 </tr>
@@ -38,35 +89,88 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-**Frontend**
+<!-- ========================= CURRENT FOCUS ========================= -->
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+## 🎯 Current Focus
 
-**Backend & Database**
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ABP Framework](https://img.shields.io/badge/ABP_Framework-1976D2?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+| Enterprise Development |     Architecture    | User Experience |   Product Engineering  |
+| :--------------------: | :-----------------: | :-------------: | :--------------------: |
+|  Angular applications  |   Modular systems   |  Responsive UI  |  Business requirements |
+|      ABP Framework     | Reusable components |  Arabic and RTL | Maintainable solutions |
+|        REST APIs       |  Clean architecture |  Accessibility  |   Production delivery  |
 
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,sass,bootstrap,materialui&theme=dark" alt="Frontend Technologies"/>
+
+<br/>
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql,sqlite&theme=dark" alt="Backend Technologies"/>
+
+<br/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,azure,docker,postman,vscode,visualstudio,npm,vite&theme=dark" alt="Development Tools"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![ABP Framework](https://img.shields.io/badge/ABP_Framework-6E40C9?style=flat-square\&logo=dotnet\&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square\&logo=reactivex\&logoColor=white)
+![Angular Signals](https://img.shields.io/badge/Angular_Signals-C2185B?style=flat-square\&logo=angular\&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![RTL](https://img.shields.io/badge/Arabic_RTL-22C55E?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0284C7?style=flat-square)
+
+</div>
+
+---
+
+<!-- ========================= EXPERIENCE ========================= -->
+
+## 💼 Professional Journey
+
+```text
+2024 — Present
+│
+├── Mid-level Front-End Developer — InnovaWide
+│   ├── Enterprise Angular development
+│   ├── ABP Framework applications
+│   ├── Legal technology platforms
+│   └── Multilingual and RTL systems
+│
+2023
+│
+├── Information Technology Institute — Professional Diploma
+│
+2019 — 2023
+│
+└── Assiut University — Bachelor's Degree
+```
+
+---
+
 
 ## 🚀 Featured Projects
 
@@ -159,16 +263,34 @@
 
 ---
 
-## 📈 GitHub Activity
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bahaamagdygit&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bahaamagdygit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahaamagdygit&bg_color=1a1b27&color=628fdb&line=6E40C9&point=ffffff&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=bahaamagdygit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&rank_icon=github" alt="Bahaa's GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bahaamagdygit&theme=tokyonight&hide_border=true&border_radius=12" alt="Bahaa's GitHub Streak"/>
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bahaamagdygit&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" alt="Most Used Languages"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahaamagdygit&theme=tokyonight&utcOffset=2" alt="Productive Time"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bahaamagdygit&bg_color=1A1B27&color=A78BFA&line=6E40C9&point=FFFFFF&area=true&area_color=6E40C9&hide_border=true&radius=12" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Journey
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bahaamagdygit/bahaamagdygit/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution snake" />
@@ -196,6 +318,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" width="100%" />
-</p>
+<!-- ========================= FOOTER ========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00C7B7,55:6E40C9,100:090E1A&section=footer" alt="Footer"/>
+
