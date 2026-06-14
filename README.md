@@ -29,6 +29,16 @@
 
 ---
 
+<!-- ========================= CONTRIBUTION SNAKE ========================= -->
+
+## 🐍 Contribution Journey
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bahaamagdygit/bahaamagdygit/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+</p>
+
+---
 <!-- ========================= ABOUT SECTION ========================= -->
 
 ## 👨‍💻 About Me
@@ -287,16 +297,6 @@ const bahaa = {
 
 ---
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= -->
-
-## 🐍 Contribution Journey
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bahaamagdygit/bahaamagdygit/refs/heads/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
